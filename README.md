@@ -2,7 +2,7 @@
 <!--README-TUTORIAL-->
 
 
-### Normal and new line  
+### Normal text and new line  
 Jahirul Islam<br/>
 This is second line
 
